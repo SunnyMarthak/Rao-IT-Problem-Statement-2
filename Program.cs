@@ -13,8 +13,8 @@ using (Stream stream = webClient.OpenRead(url))
         string line;
         while ((line = streamReader.ReadLine()) != null)
         {
-            Console.WriteLine("Output for " + line + ":");
             int Count = Convert.ToInt32(line);
+            Console.WriteLine("Output for " + line + ":");
             IEnumerable<IEnumerable<int>> Result = GetVariousListData(Enumerable.Range(1, Count), Count);
             List<string> liData = new List<string>();
             foreach (IEnumerable<int> IEnum in Result)

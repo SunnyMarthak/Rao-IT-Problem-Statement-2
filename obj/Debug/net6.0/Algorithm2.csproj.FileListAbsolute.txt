@@ -1,0 +1,15 @@
+E:\Rao IT Competition\Algorithm2\obj\Debug\net6.0\Algorithm2.csproj.AssemblyReference.cache
+E:\Rao IT Competition\Algorithm2\obj\Debug\net6.0\Algorithm2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Rao IT Competition\Algorithm2\obj\Debug\net6.0\Algorithm2.AssemblyInfoInputs.cache
+E:\Rao IT Competition\Algorithm2\obj\Debug\net6.0\Algorithm2.AssemblyInfo.cs
+E:\Rao IT Competition\Algorithm2\obj\Debug\net6.0\Algorithm2.csproj.CoreCompileInputs.cache
+E:\Rao IT Competition\Algorithm2\bin\Debug\net6.0\Algorithm2.exe
+E:\Rao IT Competition\Algorithm2\bin\Debug\net6.0\Algorithm2.deps.json
+E:\Rao IT Competition\Algorithm2\bin\Debug\net6.0\Algorithm2.runtimeconfig.json
+E:\Rao IT Competition\Algorithm2\bin\Debug\net6.0\Algorithm2.dll
+E:\Rao IT Competition\Algorithm2\bin\Debug\net6.0\Algorithm2.pdb
+E:\Rao IT Competition\Algorithm2\obj\Debug\net6.0\Algorithm2.dll
+E:\Rao IT Competition\Algorithm2\obj\Debug\net6.0\refint\Algorithm2.dll
+E:\Rao IT Competition\Algorithm2\obj\Debug\net6.0\Algorithm2.pdb
+E:\Rao IT Competition\Algorithm2\obj\Debug\net6.0\Algorithm2.genruntimeconfig.cache
+E:\Rao IT Competition\Algorithm2\obj\Debug\net6.0\ref\Algorithm2.dll
